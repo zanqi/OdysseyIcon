@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 744.09449 744.09448"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="C:\Users\Key\Desktop\share\Odyssey icon\drawing.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4355">
     <filter
@@ -60,9 +63,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87011718"
-     inkscape:cx="159.34327"
-     inkscape:cy="438.68678"
-     inkscape:current-layer="g5940"
+     inkscape:cx="258.00387"
+     inkscape:cy="361.37139"
+     inkscape:current-layer="g6309"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -89,7 +92,9 @@
     <g
        id="g5940"
        style="filter:url(#filter6153)"
-       transform="matrix(1,0,0,1.147739,0,-7.664168)">
+       transform="matrix(1,0,0,1.147739,0,-7.664168)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g6309"
          transform="matrix(11.270234,0,0,10.820657,10.96572,-612.91339)"
@@ -132,13 +137,6 @@
            height="38.928551"
            x="0.20299801"
            y="7.5203424" />
-        <rect
-           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4909"
-           width="0.48453191"
-           height="0.44348979"
-           x="0.78443635"
-           y="47.089485" />
         <rect
            style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect5614"
